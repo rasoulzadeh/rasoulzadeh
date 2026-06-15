@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @mvpxcoder
-- 👀 I’m interested in robotics and computer
-- 🌱 I’m currently learning how to teach better
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Systems & Algorithms Engineer
+
+Building software for robotics, communication systems and autonomous systems.
+
+Interested in:
+🧭 Distributed Systems
+🤖 Robotics
+⚙️ Control Systems
+🧠 Algorithms
+🧑‍🏫 Engineering Education
 
 <!---
-mvpxcoder/mvpxcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rasoulzadeh/rasoulzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
