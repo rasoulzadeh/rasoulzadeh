@@ -1,11 +1,11 @@
-# Systems & Algorithms Engineer
+# Systems & Robotics Engineer
 
-**Building software for robotics, communication systems and autonomous systems.**
+**Building software for robotics, artificial intelligence and autonomous systems.**
 
 ## Interested in:
 
+- 🤖 Robotics & AI
 - 🧭 Distributed Systems
-- 🤖 Robotics
 - ⚙️ Control Systems
 - 🧠 Algorithms
 - 🧑‍🏫 Engineering Education
