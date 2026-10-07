@@ -5,7 +5,7 @@
 ## Interested in:
 
 - 🤖 Robotics & AI
-- 🧭 Distributed Systems
+- 🧭 Distributed Multi-Agent Systems
 - ⚙️ Control Systems
 - 🧠 Algorithms
 - 🧑‍🏫 Engineering Education
